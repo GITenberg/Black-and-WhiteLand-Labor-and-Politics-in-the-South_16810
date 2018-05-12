@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6268
     wikipedia: http://en.wikipedia.org/wiki/Timothy_Thomas_Fortune
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16810#Black-and-WhiteLand-Labor-and-Politics-in-the-South
 gutenberg_issued: '2005-10-07'
 gutenberg_type: Text
 identifiers:
